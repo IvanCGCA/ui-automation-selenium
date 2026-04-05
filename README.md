@@ -42,8 +42,8 @@ Installation & Execution
 Clone the repository:
 
 ```Bash
-git clone [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/tu_usuario/tu_repositorio.git)
-cd tu_repositorio
+git clone [https://github.com/IvanCGCA/ui-automation-selenium.git](https://github.com/IvanCGCA/ui-automation-selenium.git)
+cd ui-automation-selenium
 ```
 
 Set up the virtual environment:
